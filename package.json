@@ -1,0 +1,5 @@
+{
+	"name": "electronSampleMudle",
+	"version": "0.0.1",
+	"mian": "main.js"
+}
